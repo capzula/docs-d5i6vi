@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5nd734.idcash887ws.cfd/sitemap.xml
